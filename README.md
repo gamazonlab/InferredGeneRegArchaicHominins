@@ -11,4 +11,9 @@ Archaic hominins include:
 2. the 30x genome from a 72,000-year-old Denisovan from the Altai Mountains
 3. the 30× coverage genome of an approximately 52,000-year-old Neanderthal from Croatia (the Vindija Neanderthal)
 
-Dan Zhou & Eric Gamazon
+Software is being maintained by postdoctoral scholar Dan Zhou.
+
+For questions:
+
+Dan Zhou dan.zhou@vumc.org;
+Eric R. Gamazon ericgamazon@gmail.com
