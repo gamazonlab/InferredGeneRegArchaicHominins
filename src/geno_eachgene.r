@@ -46,9 +46,3 @@ for (i in 1:nrow(gene_pos)){
   snp_info<-snp[inter,c(2,4,5)]
   save(snp_info,file=paste0('/data/coxvgi/zhoud2/projects/cross_tissue/v6p/geno/snp_info/',gene_pos[i,5]))
 }
-
-
-
-
-
-
