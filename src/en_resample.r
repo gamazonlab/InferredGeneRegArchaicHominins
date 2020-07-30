@@ -241,21 +241,3 @@ if (i_start<length(gene_list)){
 }else{
   print('out of range')
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
