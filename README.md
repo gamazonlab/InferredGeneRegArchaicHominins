@@ -1,4 +1,4 @@
-## InferredGeneRegArchaicHominins [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/rvinas/GAIN-GTEx/blob/master/LICENSE)  
+## InferredGeneRegArchaicHominins [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/gamazonlab/InferredGeneRegArchaicHominins/blob/master/LICENSE)  
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3842313.svg)](https://doi.org/10.5281/zenodo.3842313)  
 
