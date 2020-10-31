@@ -1,5 +1,7 @@
 ## InferredGeneRegArchaicHominins
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3842313.svg)](https://doi.org/10.5281/zenodo.3842313)  
+
 This code:
 
 1. trains gene expression imputation models for non-GWARRs (GWARRs = genes without archaic regulatory regions) using only the individuals with no archaic hominin ancestry in the gene’s regulatory region 
